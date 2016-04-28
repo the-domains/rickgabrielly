@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[rickgabrielly]]></title>
         <description><![CDATA[rickgabrielly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rickgabrielly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 02:05:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 02:18:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rickgabrielly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Attention to Connection</p>]]></description>
-            <link>undefinedattention-to-connection/index.html</link>
+            <link>https://thegrid.ai/rickgabrielly/attention-to-connection/index.html</link>
             <guid isPermaLink="false">ada3d08a-8742-4c2f-bf50-1dae25210204</guid>
-            <pubDate>Thu, 28 Apr 2016 02:05:24 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 02:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
