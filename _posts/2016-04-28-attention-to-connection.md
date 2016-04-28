@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Attention to Connection
-datePublished: '2016-04-28T02:05:24.892Z'
-dateModified: '2016-04-28T02:05:21.159Z'
+datePublished: '2016-04-28T02:18:56.093Z'
+dateModified: '2016-04-28T02:17:49.471Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-attention-to-connection.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-attention-to-connection.md
-published: true
 url: attention-to-connection/index.html
 _type: Article
 
