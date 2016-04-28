@@ -1,7 +1,7 @@
 name: rickgabrielly
 favicon: null
-layout_spectrum: 0.8176410649903119
-typography_spectrum: 0.08071362832561135
+layout_spectrum: 1
+typography_spectrum: 0.40941
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.31329686008393764
+    - '#060608'
+    - '#653235'
+    - '#67000a'
+    - '#aa6a19'
+    - '#f1f7b0'
+  brandStrength: 0.4375
   lightness: 0.7032361312303692
-  saturation: 0.3557573459111154
-  rhythmicContrast: 0.2471228630747646
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
